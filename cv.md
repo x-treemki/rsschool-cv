@@ -25,3 +25,10 @@ Started web developer career in 2010, creating simple one-page websites. But pla
   }
   return -1;
 } 
+
+## Languages:
+- Russian native
+- English A2
+
+
+##
