@@ -1,1 +1,1 @@
-# rsschool-cv
+https://x-treemki.github.io/rsschool-cv/cv
